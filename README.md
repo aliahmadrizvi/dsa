@@ -1,97 +1,66 @@
-# 👋 Hi, I'm Ali Rizvi
+# 👋 Hi, I'm Ali Ahmad Rizvi
 
 <h3 align="center">💻 Data Structures & Algorithms in C++</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Platform-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Roadmap-Striver%20A2Z-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Course-Love%20Babbar-32CD32?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-DSA-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 About This Repository
 
-This repository documents my journey of learning **Data Structures & Algorithms (DSA)** using **C++**.
-
-My objectives are to:
-
-- 📚 Build a strong foundation in DSA
-- 🧠 Improve problem-solving skills
-- 💻 Prepare for Software Engineering interviews
-- 🌍 Pursue M.Tech in Germany
-- 📈 Track my progress consistently
+This repository contains my C++ programs and solutions while learning **Data Structures & Algorithms (DSA)**. I use it to practice concepts, improve problem-solving skills, and track my coding journey.
 
 ---
 
 ## 📂 Repository Structure
 
-```
-DSA
-├── Basics
-├── Arrays
-├── Strings
-├── Searching
-├── Sorting
-├── Linked List
-├── Stack
-├── Queue
-├── Binary Tree
-├── BST
-├── Heap
-├── Graph
-├── Dynamic Programming
-└── Greedy
+```text
+DSA/
+├── Arrays/
+├── Search/
+├── conversion/
+└── README.md
 ```
 
 ---
 
-## 📊 Learning Roadmap
+## 📚 Topics Covered
 
-```
-C++ Basics
-     │
-     ▼
-Arrays
-     │
-     ▼
-Strings
-     │
-     ▼
-Searching & Sorting
-     │
-     ▼
-Linked List
-     │
-     ▼
-Stack & Queue
-     │
-     ▼
-Trees & BST
-     │
-     ▼
-Heap
-     │
-     ▼
-Graphs
-     │
-     ▼
-Dynamic Programming
-```
+### ✅ Arrays
+- Array Basics
+- Reverse Array
+- Largest & Smallest Element
+- Second Largest Element
+- Linear Search
+- Array Practice Problems
+
+### ✅ Search
+- Binary Search
+- First & Last Occurrence
+- Search Practice Problems
+
+### ✅ Conversion
+- Decimal to Binary
+- Binary to Decimal
+- Other Number Conversion Programs
 
 ---
 
-## 📈 Progress
+## 📈 Current Progress
 
 | Topic | Status |
-|-------|:------:|
+|--------|:------:|
 | C++ Basics | ✅ |
-| Decimal to Binary | ✅ |
-| Arrays | ⏳ |
-|Search |  ⏳ |
+| Arrays | ✅ |
+| Searching | ✅ |
+| Number Conversion | ✅ |
 | Strings | ⏳ |
 | Linked List | ⏳ |
+| Stack & Queue | ⏳ |
 | Trees | ⏳ |
 | Graphs | ⏳ |
 | Dynamic Programming | ⏳ |
@@ -100,18 +69,30 @@ Dynamic Programming
 
 ## 🎯 Goals
 
-- ✅ Complete Striver A2Z Sheet
-- ✅ Solve 250+ LeetCode Problems
-- ✅ Participate in Coding Contests
-- ✅ Build a Strong GitHub Profile
-- ✅ Crack Software Engineering Interviews
+- Complete DSA in C++
+- Solve 250+ LeetCode Problems
+- Strengthen problem-solving skills
+- Prepare for Software Engineering interviews
+- Build a strong GitHub profile
 
 ---
 
-## ⭐ Motto
+## 🛠️ Technologies
 
-> **"Consistency compounds. One problem solved today becomes experience tomorrow."**
+- C++
+- Git
+- GitHub
+- VS Code
 
 ---
 
-### Thanks for visiting my repository! ⭐
+## 👨‍💻 Author
+
+**Ali Ahmad Rizvi**
+
+- 🌐 GitHub: https://github.com/aliahmadrizvi
+- 💼 LinkedIn: https://www.linkedin.com/in/ali-ahmad-rizvi-389311377/
+
+---
+
+⭐ **Thanks for visiting my repository! More DSA topics will be added as I continue learning.**
