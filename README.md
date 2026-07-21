@@ -12,7 +12,7 @@
 
 ## 🚀 About This Repository
 
-This repository contains my C++ programs and solutions while learning **Data Structures & Algorithms (DSA)**. I use it to practice concepts, improve problem-solving skills, and track my coding journey.
+This repository contains my C++ programs and practice problems while learning **Data Structures & Algorithms**. It serves as a record of my progress and helps me strengthen my problem-solving skills.
 
 ---
 
@@ -30,23 +30,27 @@ DSA/
 
 ## 📚 Topics Covered
 
-### ✅ Arrays
-- Array Basics
-- Reverse Array
-- Largest & Smallest Element
-- Second Largest Element
+### 📁 Arrays
+
+- Creating & Printing Array
+- Swap Function
+- Unique Element
+- Duplicate Element
+- Intersection of Two Arrays
+- Pair Sum
+- Triplet Sum
+
+### 📁 Search
+
 - Linear Search
-- Array Practice Problems
-
-### ✅ Search
 - Binary Search
-- First & Last Occurrence
-- Search Practice Problems
+- First Occurrence & Last Occurrence (Binary Search)
 
-### ✅ Conversion
+### 📁 Conversion
+
 - Decimal to Binary
 - Binary to Decimal
-- Other Number Conversion Programs
+- Switch Case Programs
 
 ---
 
@@ -56,14 +60,25 @@ DSA/
 |--------|:------:|
 | C++ Basics | ✅ |
 | Arrays | ✅ |
-| Searching | ✅ |
+| Linear Search | ✅ |
+| Binary Search | ✅ |
 | Number Conversion | ✅ |
 | Strings | ⏳ |
 | Linked List | ⏳ |
-| Stack & Queue | ⏳ |
+| Stack | ⏳ |
+| Queue | ⏳ |
 | Trees | ⏳ |
 | Graphs | ⏳ |
 | Dynamic Programming | ⏳ |
+
+---
+
+## 🛠️ Technologies Used
+
+- C++
+- VS Code
+- Git
+- GitHub
 
 ---
 
@@ -71,18 +86,9 @@ DSA/
 
 - Complete DSA in C++
 - Solve 250+ LeetCode Problems
-- Strengthen problem-solving skills
-- Prepare for Software Engineering interviews
-- Build a strong GitHub profile
-
----
-
-## 🛠️ Technologies
-
-- C++
-- Git
-- GitHub
-- VS Code
+- Master Data Structures & Algorithms
+- Improve Problem Solving Skills
+- Prepare for Software Engineering Interviews
 
 ---
 
@@ -95,4 +101,4 @@ DSA/
 
 ---
 
-⭐ **Thanks for visiting my repository! More DSA topics will be added as I continue learning.**
+⭐ **Thank you for visiting my repository! More DSA topics and solutions will be added as I continue learning.**
