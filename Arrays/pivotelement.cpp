@@ -21,7 +21,7 @@ int pivotElement(int arr[],int size){
 }
 
 int main(){
-    int arr[] = {3,8,10,17,1};
+    int arr[] = {3,8,10,17,2};
     int ans = pivotElement(arr,5);
     cout<<"ans is "<<ans;
 }
