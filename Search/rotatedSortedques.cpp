@@ -7,7 +7,7 @@ int getPivot(int arr[],int size){
     int end = size - 1;
     int mid = start + (end - start)/2;
 
-    while(start<=end){
+    while(start<end){
         if(arr[mid]>=arr[0]){
             start = mid + 1;
         }
@@ -35,8 +35,9 @@ int BinarySearch(int arr[],int s,int e,int key){
         else{
             end = mid -1;
         }
-        return -1;
+       mid = start + (end-start)/2;
     }
+    return -1;
 }
 int findPosition(int arr[],int size,int k){
     int Pivot = getPivot(arr,size);
@@ -45,7 +46,7 @@ int findPosition(int arr[],int size,int k){
 
     }
     else{
-        return BinarySearch(arr,0,Pivot,k);
+        return BinarySearch(arr,0,Pivot-1,k);
     }
 }
 
