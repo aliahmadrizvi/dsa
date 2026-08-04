@@ -10,20 +10,37 @@ void connect(struct node * start, struct node * end);
 
 
 int main(){
-    struct node * start = createNode(90);
-     struct node * third = createNode(80);
-      struct node * second = createNode(950);
-       struct node * fourth = createNode(390);
+   struct node * start , *newNode , *temp;
+   start=NULL;
+   int choice=-1 , count=0;
+   while(choice){
+    newNode=(struct node *)malloc(sizeof(struct node));
+    printf("Enter Data: ");
+    scanf("%d",&newNode->data);
+    newNode->next=NULL;
+    if(start==NULL){
+        start=temp=newNode;
+    }
+    else{
+        temp->next=newNode;
+        temp=newNode;
+    }
+    printf("Do you want to continue: ");
+    scanf("%d",&choice);
+   }
+   temp=start;
+   while (temp!=0)
+   {
+    printf("%d-> ",temp->data);
+    temp=temp->next;
+    count++;
+   }
+   printf("NULL\n");
+   printf("NO of nodes are: %d",count);
+   
 
-       connect(start,third);
-       connect(third,second);
-       connect(second,fourth);
-
-
-
-    traversal(start);
-    
-    return 0;
+  
+   
 }
 
 
