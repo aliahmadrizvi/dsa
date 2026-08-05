@@ -9,6 +9,9 @@ void display(struct node * start);
 struct node * insertbeg(struct node * start , int value);
 struct node *insertpos(struct node *start,int value,int pos);
 struct node * insertend(struct node * start,int value);
+struct node * deletebeg(struct node * start);
+struct node * deletepos(struct node * start,int pos);
+struct node * deleteend(struct node * start);
 int main(){
     int choice= -1,inchoice=0,dechoice=0;int node = 0;
     struct node * start = NULL;
@@ -85,7 +88,19 @@ int main(){
 
                 switch(dechoice){
                     case 1:{
-                        
+                        start=deletebeg(start);
+                       break;
+                    }
+                    case 2:{
+                        int pos;
+                        printf("Enter the position: ");
+                        scanf("%d",&pos);
+                        start=deletepos(start,pos);
+                        break;
+                    }
+                    case 3:{
+                        start=deleteend(start);
+                        break;
                     }
                     
                 }
@@ -211,5 +226,68 @@ struct node * insertend(struct node * start,int value){
 
 }
 //delete
+struct node * deletebeg(struct node * start){
+    if(start==NULL){
+        printf("LinkedList is Empty\n");
+        return NULL;
+    }
+
+    struct node * ptr ;
+    ptr = start;
+    start=start->next;
+    free(ptr);
+    return start;
+
+}
+struct node * deletepos(struct node * start,int pos){
+    
+    if(start==NULL){
+        printf("LinkedList is Empty\n");
+        return NULL;
+    }
+    if(pos==1){
+        return deletebeg(start);
+    }
+    
+    struct node *ptr ,*prev=NULL;
+    ptr = start;
+    int i=1;
+     while(i<pos && ptr != NULL){
+        prev=ptr;
+        ptr=ptr->next;
+        i++;
+
+    }
+    if(ptr==NULL ){
+        printf("Invalid position\n");
+        return start;
+    }
+    prev->next=ptr->next;
+    free(ptr);
+    return start;
+
+}
+struct node * deleteend(struct node * start){
+      if(start==NULL){
+        printf("LinkedList is Empty\n");
+        return NULL;
+    }
+    if(start->next == NULL){
+        free(start);
+        return NULL;
+    }
+    struct node *ptr ,*prev;
+    ptr = start;
+    while(ptr->next!=NULL){
+        prev=ptr;
+        ptr=ptr->next;
+
+    }
+    prev->next=NULL;
+    free(ptr);
+    return start;
+
+}
+
 
 
