@@ -109,8 +109,9 @@ void Display(){
         printf("Stack is Empty\n");
     }
     else{
+        printf("Top ->");
         for(int i=top;i>=0;i--){
-            printf("%d\n",stack[i]);
+            printf("\t%d\n",stack[i]);
         }
     }
 }

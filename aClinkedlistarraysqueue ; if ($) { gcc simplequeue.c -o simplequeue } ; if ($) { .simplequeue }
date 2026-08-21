@@ -1,0 +1,329 @@
+[33mcommit 048e22d1936ab7117b2f24c09e2e1b18e4fa9ab9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Fri Aug 21 19:44:42 2026 +0530
+
+    Update .gitignore
+
+[33mcommit 84fc2a7cdf4686b4ea1537863acbf810cf0de79f[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Fri Aug 21 19:44:35 2026 +0530
+
+    Create stack.c
+
+[33mcommit 303e333752df1810f5d1b2be35035330e4030591[m
+Merge: ef3c432 02d8a78
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Fri Aug 21 19:17:01 2026 +0530
+
+    Merge branch 'main' of https://github.com/aliahmadrizvi/dsa
+
+[33mcommit 02d8a78ad3d9bbf6fbad3d9a54bd28e057fa26e5[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Thu Aug 20 23:29:17 2026 +0530
+
+    Create create.c
+
+[33mcommit a7b387bb714a6538ae57f89f3596790aebc4802f[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Wed Aug 19 23:02:04 2026 +0530
+
+    Create deletePos.c
+
+[33mcommit 193e997c17dbdfd2b94cca1ed13cec377552f0be[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Tue Aug 18 23:59:00 2026 +0530
+
+    Add deleteend function for linked listdojne
+    
+    Implement function to delete the last node of a linked list.
+
+[33mcommit 17e0f83aef83b32647f726f1e72c52b81afe63ad[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Sun Aug 16 23:11:07 2026 +0530
+
+    Create deletebeg.c
+
+[33mcommit ef3c4321a93e18366db6d30c63ba136816aa696e[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Fri Aug 14 06:59:13 2026 +0530
+
+    Create Doublyll.c
+
+[33mcommit d81566eaa5149ee5ead9da5bf9a8f4dd72b1ec19[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Wed Aug 12 22:34:35 2026 +0530
+
+    Create insertendfunc.c
+
+[33mcommit f035c1255ac403df26a941662db5751fe967c6e5[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Sun Aug 9 23:57:18 2026 +0530
+
+    Implement insert function for linked list at position
+
+[33mcommit b2a8b8950dd992d617b03f10ed02e9c4c6fb24d2[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Thu Aug 6 23:14:58 2026 +0530
+
+    Create insertBegFunction.c
+
+[33mcommit 26dffe1bcaa33185d12dbb020ad1f4fe23c2b712[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Wed Aug 5 18:38:18 2026 +0530
+
+    add delete fuction
+
+[33mcommit 9f0adbdc4c730047de485467350d2b92cbc2d97b[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Wed Aug 5 00:13:38 2026 +0530
+
+    LinkedListMenu added
+
+[33mcommit 9b326580a03ad581b4d9f08b2011b1e2001a403a[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Tue Aug 4 12:19:50 2026 +0530
+
+    update
+
+[33mcommit 719606e934c59c46ea68a4db6918c403b14c60d7[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Mon Aug 3 00:05:33 2026 +0530
+
+    linked list
+
+[33mcommit 0d7c9deff18bc9deadae15e9b84866b283d69a0d[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Sun Aug 2 23:34:32 2026 +0530
+
+    file management
+
+[33mcommit 9e2afeb99e9322ab0adac4feff853b9a40250635[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Thu Jul 30 21:55:25 2026 +0530
+
+    error solved
+
+[33mcommit d60fd55461c8166cd37c26163054e9154a4805dc[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Thu Jul 30 21:48:11 2026 +0530
+
+    rotated sorted ques done
+
+[33mcommit 7fc22d3d6c0919f0211790f09c4468b45673e9af[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Mon Jul 27 22:11:51 2026 +0530
+
+    array changed
+
+[33mcommit 2dd27d391141dd0d10c4e4812c077679c4f2f6e9[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Mon Jul 27 22:09:14 2026 +0530
+
+    add pivot ques
+
+[33mcommit a20c543f62ceb14414199f89f27bb964cddf910f[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Sat Jul 25 14:33:13 2026 +0530
+
+    transpose
+
+[33mcommit acd8de6d69b68fce557a99e031651422e442defd[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Sat Jul 25 14:15:22 2026 +0530
+
+    done
+
+[33mcommit 1fa716a3ba42c934fbe0b5519d3d5ea7bdd8401b[m
+Merge: 30dbcc0 b56d1a8
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Sat Jul 25 12:56:24 2026 +0530
+
+    Merge branch 'main' of https://github.com/aliahmadrizvi/dsa
+
+[33mcommit 30dbcc04c7b505d4f1996c947a7abdd95f6be0db[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Sat Jul 25 12:51:34 2026 +0530
+
+    delete
+
+[33mcommit b56d1a8b4fde53762adcd42e38c9d5e283e8620b[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Sat Jul 25 12:24:46 2026 +0530
+
+    Update 2dSubtraction
+
+[33mcommit 1268b99c826225be32bf8c5ce9702b98a3dec7ef[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Sat Jul 25 12:24:19 2026 +0530
+
+    Create 2dSubtraction
+
+[33mcommit b8148997fc545a189d6b879bd64e7281d2255855[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Sat Jul 25 12:22:12 2026 +0530
+
+    Create 2dAddition.cpp
+
+[33mcommit 35cd73310d850de046e812a5c3af765bd9bbc3b6[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Fri Jul 24 13:11:45 2026 +0530
+
+    Create InsertionFuction.cpp
+
+[33mcommit 688dfba64f8bf185fd5b23afd6fef15cbd06e760[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Fri Jul 24 00:07:20 2026 +0530
+
+    lt
+
+[33mcommit ab88dd6b183b423067762f152a98ca38213ddaf7[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Wed Jul 22 22:19:16 2026 +0530
+
+    update
+
+[33mcommit 8fdae0b8f6a8f1f5649425a3f2cd7e96909a1a76[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Wed Jul 22 22:13:30 2026 +0530
+
+    leetcode34
+
+[33mcommit 90178e870d091c9b56be19380a8eca2f73df39e0[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Wed Jul 22 21:35:26 2026 +0530
+
+    error handle done
+
+[33mcommit 2b682d07c06eb457dc9b5c2cd1f4f82c7c14ee15[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Wed Jul 22 21:31:20 2026 +0530
+
+    Create first&LastOccurrence.cpp
+
+[33mcommit 845e553d3421f7cfd0d6fd6dc702529f288066fc[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Wed Jul 22 21:30:36 2026 +0530
+
+    Delete BinarySearch-firstoccurrence&LastOccurrence
+
+[33mcommit 31155f4869b9b4cfea30e92929a35a377ecab83d[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Tue Jul 21 18:40:39 2026 +0530
+
+    Update README.md
+
+[33mcommit f0acc09c93ce9863f2ac4c78c997f63cabaac5d7[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Tue Jul 21 18:39:20 2026 +0530
+
+    Update README.md
+
+[33mcommit d770a4a87d580260d456acd940033e515111e31e[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Tue Jul 21 18:23:09 2026 +0530
+
+    Create BinarySearch-firstoccurrence&LastOccurrence
+
+[33mcommit 0d99bea21f9959214da5ee43e8e0c50e590ce5e3[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Mon Jul 20 15:43:42 2026 +0530
+
+    Create BinarySearchFunction
+
+[33mcommit fe95a91c2373fec38ee8b951a033722e1bd33140[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Mon Jul 20 15:26:38 2026 +0530
+
+    Create tripletSum
+
+[33mcommit 094c354db126658ba2bec2aecb25009dc3cdcdf8[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Mon Jul 20 13:47:03 2026 +0530
+
+    Create pairSum
+
+[33mcommit a04714c1fa4629296f6f37329bb6a31628719f8e[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Sat Jul 18 18:27:15 2026 +0530
+
+    intersection ques
+
+[33mcommit a82b2060f4f2f382dbc39413fbb2e36cd90b61d8[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Sat Jul 18 18:16:27 2026 +0530
+
+    duplicate elemet ques
+
+[33mcommit 83a0b039566a763e59cc59988883b381446bda5f[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Fri Jul 17 21:35:10 2026 +0530
+
+    Update UniqueElement.cpp
+
+[33mcommit 5983a9b34384a3f2776e887290682b58c59381a7[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Fri Jul 17 21:34:47 2026 +0530
+
+    Create UniqueElement.cpp
+
+[33mcommit b90d5047dd0b2a60f996f2fcd89730c928bc1458[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Thu Jul 16 20:32:50 2026 +0530
+
+    swap-reversefunction added
+
+[33mcommit 7128780676b9bd512dbdde0f7ed4c853f505fcd5[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Wed Jul 15 22:10:38 2026 +0530
+
+    Add 'Search' topic to README progress tag
+
+[33mcommit 62986143c321a73429c82ce600548ee70afa57e5[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Wed Jul 15 22:07:54 2026 +0530
+
+    linear seach
+
+[33mcommit 8f9dce4e7d44e6ce3c5230fbf09013d45d2683f5[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Tue Jul 14 23:44:31 2026 +0530
+
+    array creating n printing functions
+
+[33mcommit a5bc7cfaa9993ebf28fa52ec37d7b815b614b736[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Mon Jul 13 23:54:44 2026 +0530
+
+    switch-case.cpp
+
+[33mcommit f6ceb5b46ea7689a6414b022da0ba12cbb44a555[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Tue Jul 7 08:08:59 2026 +0530
+
+    done
+
+[33mcommit 240e8bc1c8efc33fb4abd2d2cfc7071cb52e862e[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Tue Jul 7 00:35:49 2026 +0530
+
+    Update README.md
+
+[33mcommit ac03dfd92bb7587041f53f3b284733439a845fa1[m
+Author: Ali Ahmad Rizvi <alirizviiii2024@gmail.com>
+Date:   Tue Jul 7 00:33:21 2026 +0530
+
+    Update README.md
+
+[33mcommit 45e9e72e21685199bcd1bcdb8d3b3900e07ab1f1[m
+Author: aliiii786 <alirizviiii2024@gmail.com>
+Date:   Mon Jul 6 09:44:37 2026 +0530
+
+    decimal to binary
+    
+    decimal to binary
+
+[33mcommit f38e77568beb79915941af6fb25c1f1eae7e370f[m
+Author: ali ahmad rizvi <alirizviiii2024@gmail.com>
+Date:   Mon Jul 6 09:29:04 2026 +0530
+
+    Initial commit
